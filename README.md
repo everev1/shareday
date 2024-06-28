@@ -11,6 +11,8 @@
 
 1. 이슈
 
+![스크린샷 2024-06-28 143231](https://github.com/everev1/shareday/assets/156268564/a5c37a01-7649-4b80-b358-77c365e2115f)
+
 - 내가 해야 할 일을 구분해 놓은 것
 - 이슈 유형은 New Feature, Improvement, Bug, Task, Sub-Task 등으로 설정 가능
 - 이슈 유형을 고려하여 내가 무슨 일을 해야 하고 어떤 일을 할 수 있는지에 대한 명확한 정보를 공유가능
