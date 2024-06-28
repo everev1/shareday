@@ -9,7 +9,7 @@
 
 ### JIRA 핵심
 
-####이슈
+#### 이슈
 
 ![스크린샷 2024-06-28 143231](https://github.com/everev1/shareday/assets/156268564/a5c37a01-7649-4b80-b358-77c365e2115f)
 
@@ -19,7 +19,7 @@
 
 
 
-####백로그
+#### 백로그
 
 ![스크린샷 2024-06-28 144316](https://github.com/everev1/shareday/assets/156268564/1bf98a6d-dc11-42ca-a9bd-f553fd095c81)
 
